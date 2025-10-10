@@ -2,7 +2,7 @@
 
 Submitted by: **Rachel Villacorta**
 
-This web app: **Accounting Flashcardsn**
+This web app: **Accounting Flashcards Set**
 
 Time spent: **3** hours spent in total
 
